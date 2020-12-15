@@ -11,7 +11,7 @@ assignees: ""
 _A clear and concise description of what the bug is._
 
 ## User/Account information
-* [User ID/Account ID](https://www..)
+* [User ID/Account ID](https://www..) // # of users in workspace
 
 
 ## To Reproduce
